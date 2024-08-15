@@ -19,12 +19,14 @@ I'm a backend developer with a deep interest in working collaboratively as a tea
 
 Curiosity and endurance are my two major driving forces. These qualities help me to continuously learn and stay open to new ideas, troubleshoot problems, and remain resilient in the face of failure.
 
+I’m currently working at a startup, where I experience failure every day but am learning how to grow from it. 🌱
+
 ### Actively using
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
  <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/-rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white"/> <img src="https://img.shields.io/badge/-Celery-37814A?style=flat&logo=Celery&logoColor=white"/> <img src="https://img.shields.io/badge/-Ruff-D7FF64?style=flat&logo=Ruff&logoColor=black"/> <img src="https://img.shields.io/badge/-Polars-CD792C?style=flat&logo=Polars&logoColor=white"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 
 ### Currently interested in
-<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white"/> <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white"/> <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white"/> [Reflex](https://github.com/reflex-dev/reflex)
 
 
 ### Reach me
