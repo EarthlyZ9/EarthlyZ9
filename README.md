@@ -33,3 +33,7 @@ I’m currently working at a startup, where I experience failure every day but a
 <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/> earthlyz9.dev@gmail.com
 
 <img src="https://img.shields.io/badge/-Notion Blog-000000?style=flat&logo=Notion&logoColor=white"/> [notion.earthlyz9.dev](notion.earthlyz9.dev)
+
+#### Projects
+개인 프로젝트 회고: https://github.com/EarthlyZ9/projects
+
