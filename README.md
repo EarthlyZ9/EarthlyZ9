@@ -19,7 +19,7 @@ I'm a backend developer with a deep interest in working collaboratively as a tea
 
 Curiosity and endurance are my two major driving forces. These qualities help me to continuously learn and stay open to new ideas, troubleshoot problems, and remain resilient in the face of failure.
 
-I’m currently working at a startup, where I experience failure every day but am learning how to grow from it. 🌱
+I’m currently working at a startup. I experience failure every day but am learning to grow from it. 🌱
 
 ### Actively using
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
